@@ -446,6 +446,8 @@ width: 32%;
         height: 60px;
         line-height: 60px;
       }
+
+    
     }
     
     @media screen and (max-width: 569px) {
@@ -816,14 +818,14 @@ margin-top: -25px;
  }
  
  .b-hm-s1 button {
- 
-     width: 100px;
-     height: 60px;
-     border-radius: 45px;
-      background-color: orange;
-      color: white;
- float:right;
- }
+
+  width: 100px;
+  height: 60px;
+  border-radius: 45px;
+   background-color: orange;
+   color: white;
+float:right;
+}
    
   /* END section 1 */
  
@@ -949,7 +951,7 @@ margin-top: -25px;
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
-   height: 700px;
+   height: 950px;
 }
  
  .img-wrapper {
@@ -1045,12 +1047,13 @@ margin-top: -25px;
 
 .b-hm-s1 button {
 
-   width: 100px;
+   width: 200px;
    height: 60px;
    border-radius: 45px;
     background-color: orange;
     color: white;
 float:right;
+font-size: 30px;
 }
  
 /* END section 1 */
